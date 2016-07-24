@@ -1,5 +1,5 @@
 # pokemongoapi
-NodeJS API that wraps the Mila432's python api (Mila432/Pokemon_Go_API)
+NodeJS REST server that wraps the Mila432's python api (Mila432/Pokemon_Go_API)
 
 currently a dummy account is used
 
