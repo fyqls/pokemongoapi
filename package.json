@@ -1,0 +1,16 @@
+{
+  "name": "pokemonserver",
+  "version": "0.0.1",
+  "description": "Pokemon Go Watch",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "python-shell": "^0.4.0",
+    "q": "^1.4.1",
+    "restify": "^4.1.1"
+  }
+}
